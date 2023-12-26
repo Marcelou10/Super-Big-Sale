@@ -113,8 +113,8 @@ font-size: 15px;
 }
 
 .img{
-    width: 1400px;
-    height: 1000px;
+    width:  900px;
+    height: 600px;
 }
 
 .footer {
@@ -123,14 +123,13 @@ font-size: 15px;
     align-items: center;
     }
 
-.footer h3{
-padding-inline: 27rem;
+.footer p{
+padding-inline: 30rem;
 background-color: green;
 color: white;
-font-size: 45px;
+font-size: 50px;
 text-align: center;
-margin: 5px 5px 500px 5px;
-padding-inline: 27rem;
+margin: 15px 15px 15px 15px;
 }
 
 
